@@ -6,6 +6,12 @@ Perfect for beginners, or anyone interested in batch scripting or in the process
 
 This program was made to help shorten the process of creating symlinks on the commandline.
 
+This program supports the following symlink types:
+
+- file softlink (the default mklink option)
+- symbolic link
+- directory junction
+
 This is one of my first scripts using Batch functionality in Windows so I hope you enjoy!
 
 ### Instructions and Setup
